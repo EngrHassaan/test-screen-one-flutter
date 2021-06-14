@@ -1,4 +1,4 @@
-class Strings{
+class StrUseInApp{
   static final appTitle="PaperTale";
   static final firstHeading="PAPERTALE COMPENSATION PROGRAM";
   static final firstSubHeading="MALMO, SWEDEN";
